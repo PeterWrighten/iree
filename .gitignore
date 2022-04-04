@@ -63,3 +63,7 @@ docs/website/site/
 
 # Temporary files
 iree/builtins/**/bin/*.ll
+
+**/cmake-build-debug
+
+**/.idea
